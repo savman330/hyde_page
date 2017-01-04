@@ -2,19 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on The New Hugo Site</title>
-    <link>http://example.org/tags/development/index.xml</link>
+    <link>https://github.com/savman330/hugo_gh_blog/tags/development/index.xml</link>
     <description>Recent content in Development on The New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://example.org/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/savman330/hugo_gh_blog/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first</title>
-      <link>http://example.org/post/first/</link>
+      <title>Foo</title>
+      <link>https://github.com/savman330/hugo_gh_blog/post/first/</link>
       <pubDate>Wed, 04 Jan 2017 21:12:13 +0000</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
-      <description>&lt;p&gt;This is the first post for testing purpose&lt;/p&gt;
+      <guid>https://github.com/savman330/hugo_gh_blog/post/first/</guid>
+      <description>
+
+&lt;p&gt;This is the first post for testing purpose&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;italics&lt;/em&gt;
+&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;why are we not&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;list&lt;/li&gt;
+&lt;li&gt;fart&lt;/li&gt;
+&lt;li&gt;foo&lt;/li&gt;
+&lt;li&gt;bar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Teh &lt;a href=&#34;www.google.com&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;img src=&#34;https://github.com/savman330/hugo_gh_blog/img/screenshot.png&#34; alt=&#34;screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s try some short codes&lt;/p&gt;
+
+&lt;p&gt;Shall we?&lt;/p&gt;
+
+&lt;h3 id=&#34;the-twitterz&#34;&gt;The Twitterz&lt;/h3&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;massive increases of ObamaCare will take place this year and Dems are to blame for the mess. It will fall of its own weight - be careful!&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&#34;https://twitter.com/realDonaldTrump/status/816652088662958082&#34;&gt;January 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;dat-youtubes&#34;&gt;Dat YouTubes&lt;/h3&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/WnJd42b3EfI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h3 id=&#34;instagram-hotties&#34;&gt;Instagram hotties&lt;/h3&gt;
+
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BKsuPhBjuLd/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;How models do work on computers👙👙 @dominikagrnova @asos_studio @ravikelay #studio6&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A photo posted by Julia Evans (@julesevans) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-09-23T12:40:51+00:00&#34;&gt;Sep 23, 2016 at 5:40am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;speaker-deck&#34;&gt;Speaker Deck&lt;/h3&gt;
+
+&lt;p&gt;&lt;script async class=&#39;speakerdeck-embed&#39; data-id=&#39;5c499bf3c2fe44ae87fa899e227be7a3&#39; data-ratio=&#39;1.33333333333333&#39; src=&#39;//speakerdeck.com/assets/embed.js&#39;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
