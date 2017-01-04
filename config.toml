@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "The New Hugo Site"
+baseurl = "https://github.com/savman330/hugo_gh_blog"
+theme = 'hyde'
